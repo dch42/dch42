@@ -1,3 +1,7 @@
+## Hi, thanks for stopping by.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dch42&&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **dch42/dch42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
