@@ -1,6 +1,6 @@
 ## Hi, thanks for stopping by.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dch42&&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dch42&langs_count=8&&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
